@@ -1,2 +1,2 @@
-keybase_encryption_service
+keybase encryption service for mac os x
 ==========================
